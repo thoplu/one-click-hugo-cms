@@ -94,5 +94,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: "?"
+    - plan: test
+      price: test
+      description: test
+      items:
+        - test
 type: products
 ---
